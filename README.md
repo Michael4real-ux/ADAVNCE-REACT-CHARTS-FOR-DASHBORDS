@@ -5,5 +5,5 @@
 ##  using json server, aslo it updates every two seconds without refreshing.
 ##  start the server with 
 ## -  json-server --port 7000 --watch data.json   for sample 3
-## -  json-server --port 7000 --watch data.json   for sample 3
+## -  json-server --port 7000 --watch data.json   for sample 4
 ## - Before starting the server npm i -g json-sever
