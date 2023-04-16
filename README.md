@@ -1,6 +1,6 @@
 ##  Are you interested in building advance dashboard with real time charts
 ##  Will be using Apex Chart one of the most used charts
-##  Check all sample in App.js and see poosible ways to customize it
+##  Check all sample in App.js and see possible ways to customize it
 ##  Also added an example if you are working with a real api
 ##  using json server, also it updates every two seconds without refreshing.
 ##  start the server with 
